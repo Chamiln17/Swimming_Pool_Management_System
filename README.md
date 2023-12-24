@@ -24,7 +24,7 @@ To run this project, you need to have the following installed:
 # Installation
 
 1. Clone the repository:
-   `git clone https://github.com/your-username/swimming-pool-management.git`
+   `git clone https://github.com/Chamiln17/swimming-pool-management.git`
 
 2. Navigate to the project directory:
    `cd swimming-pool-management`
