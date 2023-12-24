@@ -1,5 +1,5 @@
 # Swimming Pool Management System
-This project was made as part of the Operating System subject in university.
+This project was made in collaboration with [Makhloufi Aymen](https://github.com/AymenMakhloufi) as part of the Operating System subject in university.
 Swimming Pool Management System is a project that simulates the management of a swimming pool with multiple swimmers (nageurs).
 
 # Table of Contents
